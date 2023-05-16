@@ -1,5 +1,6 @@
 # Splunk-CyberDefenders
 What I learned using Splunk on CyberDefenders.com
+
 <img width="540" alt="Screenshot 2023-05-15 195651" src="https://github.com/JeffreyMartin2000/Splunk-CyberDefenders/assets/129632324/b187c62b-7973-4e3b-86da-a0f5187ae8d3">
 
 I will show a couple of examples where we did some investigation and search commands to find the name of the file that defaces the website and the Cerber infection script and the length of the script for practice. 
