@@ -22,4 +22,4 @@ We will then use 'eval' to modify the 'length' of the command line input of the 
 
 <img width="956" alt="VBscriptsearchcmd" src="https://github.com/JeffreyMartin2000/Splunk-CyberDefenders/assets/129632324/cf875e82-8b16-443e-9f53-516a828550fb">
 
-Boss Of The SOC v1 on CyberDefenders.com has definitly made me better at using splunk. I also learned about how to navigate logs and what commands can help us find any malicious activity. In this writeup I learned how to find a file that defaced a website, and what script is initially used by attackers that implemented ransomeware. 
+Boss Of the SOC v1 on CyberDefenders.com has made me better at using Splunk. I also learned about how to navigate logs and what commands can help us find any malicious activity. In this writeup I learned how to find a file that defaced a website, and what script is initially used by attackers that implemented ransomware.
